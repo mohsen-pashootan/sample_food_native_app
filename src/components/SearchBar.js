@@ -29,6 +29,7 @@ const styles = StyleSheet.create({
     display: "flex",
     flexDirection: "row",
     alignItems: "center",
+    marginBottom: 10,
   },
   iconStyle: {
     fontSize: 35,
